@@ -1,0 +1,11 @@
+{
+  "rights_source": "FRESH_C_IMAGE_COHORT_ASSET_RIGHTS_20261007.csv",
+  "fresh_c_asset_records": 300,
+  "metric_only_records_deposited": 271,
+  "figure_only_records_not_deposited_as_metrics": 20,
+  "rights_unresolved_records_not_deposited": 9,
+  "participant_level_data_included": false,
+  "source_meshes_or_textures_included": false,
+  "generated_image_archives_included": false,
+  "model_weights_included": false
+}

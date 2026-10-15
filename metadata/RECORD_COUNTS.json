@@ -1,0 +1,42 @@
+{
+  "data/fresh_c_matched_control_metrics.csv": {
+    "records": 1626,
+    "objects": 271,
+    "records_in_source": 1800,
+    "objects_in_source": 300
+  },
+  "data/fresh_c_equal_budget_contrasts.csv": {
+    "records": 813,
+    "objects": 271,
+    "records_in_source": 900,
+    "objects_in_source": 300
+  },
+  "data/fresh_c_c3_fixed_low_contrasts.csv": {
+    "records": 271,
+    "objects": 271,
+    "records_in_source": 300,
+    "objects_in_source": 300
+  },
+  "data/native_mvadapter_metrics.csv": {
+    "records": 301,
+    "objects": 43,
+    "records_in_source": 350,
+    "objects_in_source": 50
+  },
+  "data/geotex_bake10_metrics.csv": {
+    "records": 64,
+    "objects": 8,
+    "records_in_source": 80,
+    "objects_in_source": 10
+  },
+  "data/geotex_earlier_bake5_metrics.csv": {
+    "records": 32,
+    "objects": 4,
+    "records_in_source": 40,
+    "objects_in_source": 5
+  },
+  "data/gso100_view_metrics.csv": {
+    "records": 14400,
+    "objects": 100
+  }
+}

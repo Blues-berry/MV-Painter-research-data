@@ -1,0 +1,27 @@
+{
+  "creators": [
+    {
+      "name": "Che, Xueyuan",
+      "affiliation": "School of Instrument Science and Engineering, Southeast University",
+      "type": "ProjectMember"
+    },
+    {
+      "name": "Sun, Libo",
+      "affiliation": "School of Instrument Science and Engineering, Southeast University",
+      "type": "ProjectLeader"
+    }
+  ],
+  "title": "Limited research data for Timestep-Conditioned Adapter Scaling in Multi-view Diffusion Texture Generation",
+  "version": "1.0.0",
+  "access_right": "open",
+  "keywords": [
+    "3D texturing",
+    "multi-view diffusion",
+    "adapter scaling",
+    "texture baking",
+    "computer graphics"
+  ],
+  "license": "cc-by-4.0",
+  "upload_type": "dataset",
+  "language": "eng"
+}
