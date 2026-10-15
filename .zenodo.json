@@ -12,7 +12,7 @@
     }
   ],
   "title": "Limited research data for Timestep-Conditioned Adapter Scaling in Multi-view Diffusion Texture Generation",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "access_right": "open",
   "keywords": [
     "3D texturing",
