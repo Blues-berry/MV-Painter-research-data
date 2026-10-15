@@ -27,4 +27,4 @@ The GSO source geometry is attributed to Google Research / Google LLC under CC B
 
 ## Citation
 
-The first archived release will receive a DOI. Cite the version-specific DOI shown on the archive record once it is assigned; the versioned GitHub repository is available at <https://github.com/Blues-berry/MV-Painter-research-data>.
+The rights-filtered data snapshot is archived as version 1.0.1 on Zenodo (DOI: <https://doi.org/10.5281/zenodo.23383807>). The versioned GitHub repository is available at <https://github.com/Blues-berry/MV-Painter-research-data>.
